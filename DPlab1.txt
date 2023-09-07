@@ -1,0 +1,9 @@
+In Today's lab, I visited the article " https://raygun.com/blog/oop-concepts-java/" from our Design Pattern class on SubExpert. In that article 6 basic concepts of OOP;
+>Abstraction: We created an abstract (hidden) main class and then extended two childs from the abstract class, both child classes can use the attributes and methods of Abstract parent class. we will create an object of child class because abstract class cannot be intantized.
+>Interface
+>Encapsulation
+>Inheritance
+>Polymorphism
+Their practiced examples are uploaded on following link: https://github.com/asim037/DesignPatterns-Lab1
+
+
